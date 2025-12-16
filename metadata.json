@@ -1,0 +1,7 @@
+{
+  "name": "XCONCEPT Assessment",
+  "description": "Uma avaliação física inteligente, humana e simples focada na redução da ansiedade e personalização de treino.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
